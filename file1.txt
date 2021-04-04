@@ -2,6 +2,8 @@ Editing this file in the terminal.
 
 Here is my list:
 
+We are going to list colors
+
 Colors of the rainbow:
 1. red
 2. orange
